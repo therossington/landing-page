@@ -1,0 +1,1 @@
+Testing HTML and CSS skills to create a landing page for The Odin Project.
